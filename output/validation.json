@@ -1,0 +1,137 @@
+[
+  {
+    "name": "dune_nose_piece",
+    "units": "mm",
+    "prong_root_centers_mm": [
+      [
+        -8.0,
+        0.3899029027974734,
+        1.65
+      ],
+      [
+        8.0,
+        0.3899029027974734,
+        1.65
+      ]
+    ],
+    "prong_tip_centers_mm": [
+      [
+        -8.0,
+        1.0213725720751556,
+        6.912247243980687
+      ],
+      [
+        8.0,
+        1.0213725720751556,
+        6.912247243980687
+      ]
+    ],
+    "prong_root_spacing_mm": 16.0,
+    "prong_tip_spacing_mm": 16.0,
+    "bounds_xyz_mm": [
+      36.004216392972225,
+      5.297723643038892,
+      8.528919737851655
+    ],
+    "min_z_mm": -0.015573242298349228,
+    "volume_mm3": 422.07357039671405,
+    "cad_valid": true,
+    "cad_solids": 1,
+    "step_round_trip_valid": true,
+    "step_relative_volume_error": 5.537777362247909e-07,
+    "stl_watertight": true,
+    "stl_winding_consistent": true,
+    "stl_connected_components": 1,
+    "stl_triangles": 33098
+  },
+  {
+    "name": "dune_nose_piece_spacing_14mm",
+    "units": "mm",
+    "prong_root_centers_mm": [
+      [
+        -7.0,
+        0.2983530055668382,
+        1.65
+      ],
+      [
+        7.0,
+        0.2983530055668382,
+        1.65
+      ]
+    ],
+    "prong_tip_centers_mm": [
+      [
+        -7.0,
+        0.9298226748445205,
+        6.912247243980687
+      ],
+      [
+        7.0,
+        0.9298226748445205,
+        6.912247243980687
+      ]
+    ],
+    "prong_root_spacing_mm": 14.0,
+    "prong_tip_spacing_mm": 14.0,
+    "bounds_xyz_mm": [
+      36.004216392972225,
+      5.297723643038892,
+      8.528919737851655
+    ],
+    "min_z_mm": -0.015573242298349228,
+    "volume_mm3": 422.0747034195629,
+    "cad_valid": true,
+    "cad_solids": 1,
+    "step_round_trip_valid": true,
+    "step_relative_volume_error": 4.3349749413769974e-07,
+    "stl_watertight": true,
+    "stl_winding_consistent": true,
+    "stl_connected_components": 1,
+    "stl_triangles": 33128
+  },
+  {
+    "name": "dune_nose_piece_spacing_18mm",
+    "units": "mm",
+    "prong_root_centers_mm": [
+      [
+        -9.0,
+        0.4937833590295071,
+        1.65
+      ],
+      [
+        9.0,
+        0.4937833590295071,
+        1.65
+      ]
+    ],
+    "prong_tip_centers_mm": [
+      [
+        -9.0,
+        1.1252530283071893,
+        6.912247243980687
+      ],
+      [
+        9.0,
+        1.1252530283071893,
+        6.912247243980687
+      ]
+    ],
+    "prong_root_spacing_mm": 18.0,
+    "prong_tip_spacing_mm": 18.0,
+    "bounds_xyz_mm": [
+      36.004216392972225,
+      5.300391909417069,
+      8.531588004229832
+    ],
+    "min_z_mm": -0.018241508676526155,
+    "volume_mm3": 422.07183268914474,
+    "cad_valid": true,
+    "cad_solids": 1,
+    "step_round_trip_valid": true,
+    "step_relative_volume_error": 4.7293168020154545e-07,
+    "stl_watertight": true,
+    "stl_winding_consistent": true,
+    "stl_connected_components": 1,
+    "stl_triangles": 33098
+  }
+]

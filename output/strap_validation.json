@@ -1,0 +1,108 @@
+{
+  "parts": [
+    {
+      "name": "dune_ear_strap_TPU",
+      "units": "mm",
+      "material_intent": "flexible TPU",
+      "configuration": "relaxed flat printing shape",
+      "cheek_reach_mm": 100.0,
+      "hook_inner_width_mm": 16.4,
+      "strap_nominal_width_mm": 3.6,
+      "strap_flat_height_mm": 3.3,
+      "socket_bore_diameter_mm": 2.65,
+      "socket_bore_depth_mm": 6.0,
+      "centerline_length_mm": 166.69709621430673,
+      "bounds_xyz_mm": [
+        121.80730715896357,
+        72.40034195681189,
+        5.287226282916626
+      ],
+      "min_z_mm": -0.08668154939666126,
+      "volume_mm3": 1762.8945267262511,
+      "cad_valid": true,
+      "cad_solids": 1,
+      "step_round_trip_valid": true,
+      "step_relative_volume_error": 3.9196253048398145e-13,
+      "stl_watertight": true,
+      "stl_winding_consistent": true,
+      "stl_connected_components": 1,
+      "stl_triangles": 85198
+    },
+    {
+      "name": "dune_ear_strap_TPU_short",
+      "units": "mm",
+      "material_intent": "flexible TPU",
+      "configuration": "relaxed flat printing shape",
+      "cheek_reach_mm": 90.0,
+      "hook_inner_width_mm": 16.4,
+      "strap_nominal_width_mm": 3.6,
+      "strap_flat_height_mm": 3.3,
+      "socket_bore_diameter_mm": 2.65,
+      "socket_bore_depth_mm": 6.0,
+      "centerline_length_mm": 158.17917057135668,
+      "bounds_xyz_mm": [
+        111.80730715896357,
+        72.40037952551401,
+        5.316951414102335
+      ],
+      "min_z_mm": -0.11638919553503976,
+      "volume_mm3": 1680.0329151186995,
+      "cad_valid": true,
+      "cad_solids": 1,
+      "step_round_trip_valid": true,
+      "step_relative_volume_error": 4.17682672070341e-12,
+      "stl_watertight": true,
+      "stl_winding_consistent": true,
+      "stl_connected_components": 1,
+      "stl_triangles": 80996
+    },
+    {
+      "name": "dune_ear_strap_TPU_long",
+      "units": "mm",
+      "material_intent": "flexible TPU",
+      "configuration": "relaxed flat printing shape",
+      "cheek_reach_mm": 110.0,
+      "hook_inner_width_mm": 16.4,
+      "strap_nominal_width_mm": 3.6,
+      "strap_flat_height_mm": 3.3,
+      "socket_bore_diameter_mm": 2.65,
+      "socket_bore_depth_mm": 6.0,
+      "centerline_length_mm": 175.37066874263138,
+      "bounds_xyz_mm": [
+        131.80730715896357,
+        72.40031909881493,
+        5.302239096062199
+      ],
+      "min_z_mm": -0.1017048121984031,
+      "volume_mm3": 1847.9629848607947,
+      "cad_valid": true,
+      "cad_solids": 1,
+      "step_round_trip_valid": true,
+      "step_relative_volume_error": 3.381143806649726e-13,
+      "stl_watertight": true,
+      "stl_winding_consistent": true,
+      "stl_connected_components": 1,
+      "stl_triangles": 88056
+    }
+  ],
+  "assembly": {
+    "step": "dune_complete_assembly.step",
+    "valid": true,
+    "solid_count": 2,
+    "configuration": "relaxed flat strap fitted onto nose spigot",
+    "barb_interference_volume_mm3": 0.24966086351671535,
+    "step_relative_component_volume_error": 1.0697439382702196e-07,
+    "spigot_insertion_mm": 3.7,
+    "bounds_xyz_mm": [
+      144.89994399946355,
+      91.16724749532604,
+      9.948928793377348
+    ],
+    "strap_rotation_z_degrees": 170.20181509242448,
+    "strap_translation_xyz_mm": [
+      -16.26645056726094,
+      1.591410048622366,
+      -1.35
+    ]
+  }
+}

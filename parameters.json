@@ -1,0 +1,20 @@
+{
+  "units": "mm",
+  "default_spacing_mm": 16.0,
+  "fit_variant_spacing_mm": [14.0, 18.0],
+  "bar_half_span_mm": 14.0,
+  "bar_plan_bow_mm": 1.2,
+  "bar_radius_mm": 1.9,
+  "bar_center_height_mm": 1.4,
+  "prong_radius_mm": 1.6,
+  "prong_root_height_mm": 1.65,
+  "prong_stem_length_mm": 5.3,
+  "prong_outward_lean": 0.0,
+  "prong_rearward_lean": 0.12,
+  "hose_spigot_radius_mm": 1.25,
+  "hose_barb_radius_mm": 1.45,
+  "hose_spigot_length_mm": 6.0,
+  "hose_nominal_inner_diameter_mm": 2.5,
+  "stl_linear_tolerance_mm": 0.035,
+  "stl_angular_tolerance_radians": 0.08
+}
